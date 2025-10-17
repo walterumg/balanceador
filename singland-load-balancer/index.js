@@ -6,8 +6,8 @@ const PORT = process.env.PORT || 3000;
 
 // URLs fijas de tus backends Render
 const servers = [
-  "https://proyectofinalweb-v2-fzrc.onrender.com/api",
-  "https://proyectofinalweb-v2.onrender.com/api"
+  "https://proyectofinalweb-v2-fzrc.onrender.com",
+  "https://proyectofinalweb-v2.onrender.com"
 ];
 
 let current = 0;
