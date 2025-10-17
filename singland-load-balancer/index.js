@@ -6,8 +6,8 @@ const PORT = process.env.PORT || 3000;
 
 // URLs fijas de tus backends Render
 const servers = [
-  "https://singland-1-j4by.onrender.com",
-  "https://singland-1.onrender.com"
+  "https://singland-1-j4by.onrender.com/api",
+  "https://singland-1.onrender.com/api"
 ];
 
 let current = 0;
